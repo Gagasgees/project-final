@@ -46,26 +46,44 @@ Website is hosted via **InfintyFree**
 ## 🖼 Screenshots Gesge-Restaurant
 
 ### Homepage
-![homepage](assets/homepage.PNG)
+![homepage](asset/homepage.PNG)
 
 ### Homepage Slider
-![homepage-slider](assets/homepage-slider.PNG)
+![homepage-slider](asset/homepage-slider.PNG)
 
 ### Login
-![login](assets/login.PNG)
+![login](asset/login.PNG)
 
 ### Menupage
-![menupage](assets/menupage.png)
+![menupage](asset/menupage.png)
 
 ### Order
-![order](assets/order.PNG)
+![order](asset/order.PNG)
 
 ### Wishlist
-![wishlist](assets/wishlist.PNG)
+![wishlist](asset/wishlist.PNG)
 
 ## 🖼 Screenshots Admin Panel
+### Dashboard
+![dashboard](asset/dashboard.PNG)
 
-## 🚀 Installation
+![content-dashboard1](asset/content-dashboard1.PNG)
+
+![content-dashboard2](asset/content-dashboard2.PNG)
+
+![profile](asset/profile.PNG)
+
+### Add Product
+![add-product](asset/add-product.PNG)
+
+### View Product
+![view-product](asset/view-product.PNG)
+
+### Admin Account
+![admin-user](asset/registes-admin.PNG)
+
+
+## 🚀 Installation  Gesge-restauran adn Admin panel
 ### 1️⃣ Clone the repository
 https://github.com/Gagasgees/gesge-restaurant.git
 
