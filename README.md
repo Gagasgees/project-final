@@ -85,7 +85,7 @@ Website is hosted via **InfintyFree**
 
 ## 🚀 Installation  Gesge-restauran adn Admin panel
 ### 1️⃣ Clone the repository
-https://github.com/Gagasgees/gesge-restaurant.git
+https://github.com/Gagasgees/restaurant-gesge.git
 
 ### 2️⃣ Import into the project directory
 cd gesge-restaurant
